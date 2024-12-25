@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, WE're SZaman Tech</h1>
+<h1 align="center">Hi 👋, We're SZaman Tech</h1>
 <h3 align="center">A passionate full stack developer in Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adminszamantech&label=Profile%20views&color=0e75b6&style=flat" alt="adminszamantech" /> </p>
