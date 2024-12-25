@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SZaman Tech</h1>
+<h1 align="center">Hi 👋, WE're SZaman Tech</h1>
 <h3 align="center">A passionate full stack developer in Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adminszamantech&label=Profile%20views&color=0e75b6&style=flat" alt="adminszamantech" /> </p>
@@ -7,25 +7,25 @@
 
 <p align="left"> <a href="https://twitter.com/szamantech" target="blank"><img src="https://img.shields.io/twitter/follow/szamantech?logo=twitter&style=for-the-badge" alt="szamantech" /></a> </p>
 
-- 🔭 I’m currently working on [SZaman Tech Ecommerce](http://ecom.szamantech.com/)
+- 🔭 we're currently working on [SZaman Tech Ecommerce](http://ecom.szamantech.com/)
 
-- 🌱 I’m currently learning **Html, Css, Javascript, Jquery, Bootstrap, Tailwind, Vue, React,Angular, Node Js, Express Js, Mern Stack, PHP, Laravel, Mysql, Sqlite, MongoDb, PostgreSQL,Oracle, MariaDB, Radis, WordPress**
+- 🌱 We're working with **Html, Css, Javascript, Jquery, Bootstrap, Tailwind, Vue, React,Angular, Node Js, Express Js, Mern Stack, PHP, Laravel, Mysql, Sqlite, MongoDb, PostgreSQL,Oracle, MariaDB, Radis, WordPress.**
 
-- 👯 I’m looking to collaborate on [Dhaka Prokash Limited](https://dhakaprokash24.com/)
+- 👯 We've already delivered and providing support to [Dhaka Prokash Limited](https://dhakaprokash24.com/)
 
-- 🤝 I’m looking for help with [SZaman Tech](http://szamantech.com/)
+- 🤝 We're looking for help with [SZaman Tech](http://szamantech.com/)
 
-- 👨‍💻 All of my projects are available at [http://szamantech.com/](http://szamantech.com/)
+- 👨‍💻 All of our projects available at [http://szamantech.com/](http://szamantech.com/)
 
-- 📝 I regularly write articles on [http://szamantech.com/](http://szamantech.com/)
+- 📝 We're regularly writing articles on [http://szamantech.com/](http://szamantech.com/)
 
 - 💬 Ask me about **Html, Css, Javascript, Jquery, Bootstrap, Tailwind, Vue, React,Angular, Node Js, Express Js, Mern Stack, PHP, Laravel, Mysql, Sqlite, MongoDb, PostgreSQL,Oracle, MariaDB, Radis, WordPress**
 
 - 📫 How to reach me **info@szamantech.com**
 
-- 📄 Know about my experiences [http://szamantech.com/](http://szamantech.com/)
+- 📄 Know about our experiences [http://szamantech.com/](http://szamantech.com/)
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **Let's go for the cake**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
