@@ -25,7 +25,7 @@
 
 - 📄 Know about our experiences [http://szamantech.com/](http://szamantech.com/)
 
-- ⚡ Fun fact **Let's go for the cake**
+- ⚡ Fun fact **Let's go for a break**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
